@@ -1,5 +1,6 @@
 # The Fortune Teller 
-_a Python program I developed as an assignment for PYTHON PROGRAMMING 1 (CIS-1250), which I took at Central New Mexico Community College, Summer 2020_
+_a Python program I developed as an assignment for my PYTHON PROGRAMMING 1 (CIS-1250) class at Central New Mexico Community College, Summer 2020_
+
 Uses Tarot card interpretations from Mark McElroy's [_A Guide to Tarot Meanings_](http://www.madebymark.com/a-guide-to-tarot-card-meanings/). [GitHub link](https://github.com/dariusk/corpora/blob/master/data/divination/tarot_interpretations.json)
 
 ## What's the problem?
