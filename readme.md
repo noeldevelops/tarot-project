@@ -8,7 +8,7 @@ You want some spiritual guidance but have reasons for not going to a fortune tel
 
 I am interested in whether the act of asking 'someone' your fortune, then reading the generalized responses that are in the tarot data, can be of actual psychological help in breaking through problems by activating the users' intuition about what they need to do. For example, in the past I have turned to a page in my copy of the [I Ching](https://en.wikipedia.org/wiki/I_Ching) and felt empowered by what seemed an appropriate explanation of current circumstances. Can a quickie tarot session provide helpful insight, even in the absence of a human reader? 
 
-This project is heavily inspired by the work of Allison Parrish and particularly by her course [Electronic Rituals, Oracles and Fortune Telling](eroft.decontextualize.com/schedule/). After reading the course schedule and a few of the resources listed, I knew I wanted to make something fun that I would never have the chance to make at work, and to explore a more creative application of my Python skills.
+This project is heavily inspired by the work of Allison Parrish and particularly by her course [Electronic Rituals, Oracles and Fortune Telling](http://eroft.decontextualize.com/schedule/). After reading the course schedule and a few of the resources listed, I knew I wanted to make something fun that I would never have the chance to make at work, and to explore a more creative application of my Python skills.
 
 ![Screenshot of program as ran in Terminal](tarot_program_screenshot.png)
 
